@@ -1,0 +1,962 @@
+[
+    {
+        "name": "Janine",
+        "login": "002993",
+        "disciplines": [
+            {
+                "id": "77651",
+                "name": "BASES DO ENSINO E DA APRENDIZAGEM DA MATEMÁTICA II",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001802DU",
+                "je": false
+            },
+            {
+                "id": "77671",
+                "name": "PLANEJAMENTO E PRÁTICAS PARA O ENSINO DA MATEMÁTICA",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001805NU",
+                "je": false
+            },
+            {
+                "id": "77744",
+                "name": "OPTATIVA - TRABALHO DE CONCLUSÃO DE CURSO I - TCC I",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001807DU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Janine",
+        "login": "00288",
+        "disciplines": [
+            {
+                "id": "77678",
+                "name": "PRODUÇÃO DE MÓDULOS DIDÁTICOS E RESOLUÇÃO DE PROBLEMAS",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001806NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "João Carneiro",
+        "login": "003218",
+        "disciplines": [
+            {
+                "id": "69937",
+                "name": "ELETROTÉCNICA GERAL E INSTALAÇÕES ELÉTRICAS PREDIAIS",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045605DU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Jose Jorge",
+        "login": "00474",
+        "disciplines": [
+            {
+                "id": "79186",
+                "name": "MATEMÁTICA",
+                "grade": 202102,
+                "course": "CIÊNCIAS CONTÁBEIS",
+                "period": "000601MU",
+                "je": false
+            },
+            {
+                "id": "83872",
+                "name": "ESTATÍSTICA ECONÔMICA",
+                "grade": 202401,
+                "course": "CIÊNCIAS ECONÔMICAS",
+                "period": "000703MU",
+                "je": false
+            },
+            {
+                "id": "77440",
+                "name": "ESTATÍSTICA APLICADA AO SERVIÇO SOCIAL",
+                "grade": 201901,
+                "course": "SERVIÇO SOCIAL",
+                "period": "010503NU",
+                "je": true
+            },
+            {
+                "id": "80896",
+                "name": "FUNDAMENTOS DE ESTATÍSTICA",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065303NU",
+                "je": true
+            }
+        ]
+    },
+    {
+        "name": "Juliana",
+        "login": "01499",
+        "disciplines": [
+            {
+                "id": "77652",
+                "name": "PROBLEMAS DE CONTAGEM",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001802DU",
+                "je": false
+            },
+            {
+                "id": "77681",
+                "name": "INTRODUÇÃO ÀS EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001807DU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Lailson",
+        "login": "02275",
+        "disciplines": [
+            {
+                "id": "77673",
+                "name": "FUNDAMENTOS E ORIENTAÇÃO DE ESTÁGIO SUPERVISIONADO EM MATEMÁTICA I",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001805NU",
+                "je": false
+            },
+            {
+                "id": "77683",
+                "name": "FUNDAMENTOS E ORIENTAÇÃO DE ESTÁGIO SUPERVISIONADO EM MATEMÁTICA III",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001807DU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Leandro",
+        "login": "004468",
+        "disciplines": [
+            {
+                "id": "69493",
+                "name": "EQUAÇÕES DIFERENCIAIS B",
+                "grade": 201101,
+                "course": "ENGENHARIA DE SISTEMAS",
+                "period": "045304NU",
+                "je": false
+            },
+            {
+                "id": "77684",
+                "name": "ANÁLISE NO Rn",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001808NU",
+                "je": false
+            },
+            {
+                "id": "77674",
+                "name": "CÁLCULO NUMÉRICO",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001806NU",
+                "je": true
+            },
+            {
+                "id": "79254",
+                "name": "MATEMÁTICA APLICADA AS CIÊNCIAS BIOLÓGICAS",
+                "grade": 202102,
+                "course": "CIÊNCIAS BIOLÓGICAS - LICENCIATURA PLENA",
+                "period": "000401NU",
+                "je": true
+            },
+            {
+                "id": "81445",
+                "name": "MATEMÁTICA",
+                "grade": 202301,
+                "course": "GEOGRAFIA - BACHARELADO",
+                "period": "000901MU",
+                "je": true
+            }
+        ]
+    },
+    {
+        "name": "Lenir",
+        "login": "????",
+        "disciplines": [
+            {
+                "id": "69955",
+                "name": "ESTRUTURAS METÁLICAS",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045608DU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Leonides",
+        "login": "004173",
+        "disciplines": [
+            {
+                "id": "77656",
+                "name": "FÍSICA I",
+                "grade": 202001,
+                "course": "MATEMÁTICA - CAMPUS SÃO FRANCISCO",
+                "period": "011103NU",
+                "je": false
+            },
+            {
+                "id": "77676",
+                "name": "FÍSICA III",
+                "grade": 202001,
+                "course": "MATEMÁTICA - CAMPUS SÃO FRANCISCO",
+                "period": "011106NU",
+                "je": false
+            },
+            {
+                "id": "77999",
+                "name": "ATIVIDADES ACADÊMICO CIÊNTÍFICO CULTURAIS",
+                "grade": 202001,
+                "course": "MATEMÁTICA - CAMPUS SÃO FRANCISCO",
+                "period": "011108NU",
+                "je": false
+            },
+            {
+                "id": "83996",
+                "name": "ATIVIDADES INTEGRADAS DE EXTENSÃO - AIEX",
+                "grade": 202001,
+                "course": "MATEMÁTICA - CAMPUS SÃO FRANCISCO",
+                "period": "011108NU",
+                "je": false
+            },
+            {
+                "id": "77668",
+                "name": "FÍSICA II",
+                "grade": 202001,
+                "course": "MATEMÁTICA - CAMPUS SÃO FRANCISCO",
+                "period": "011105NU",
+                "je": true
+            },
+            {
+                "id": "77753",
+                "name": "OPTATIVA - SEMINÁRIOS DE EQUAÇÕES DIFERENCIAIS PARCIAIS",
+                "grade": 202001,
+                "course": "MATEMÁTICA - CAMPUS SÃO FRANCISCO",
+                "period": "011108NU",
+                "je": true
+            }
+        ]
+    },
+    {
+        "name": "Luiz Carlos",
+        "login": "01496",
+        "disciplines": [
+            {
+                "id": "77641",
+                "name": "FUNDAMENTOS DE MATEMÁTICA",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001801NU",
+                "je": false
+            },
+            {
+                "id": "77675",
+                "name": "ESTRUTURAS ALGÉBRICAS",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001806NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Luiz Pedro",
+        "login": "000487",
+        "disciplines": [
+            {
+                "id": "80904",
+                "name": "CONCEITOS DE FÍSICA QUÂNTICA",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065305NU",
+                "je": false
+            },
+            {
+                "id": "80906",
+                "name": "INSTRUMENTAÇÃO PARA O ENSINO DE FÍSICA I",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065305NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Michelle",
+        "login": "004161",
+        "disciplines": [
+            {
+                "id": "66777",
+                "name": "QUÍMICA ANALÍTICA",
+                "grade": 2008,
+                "course": "AGRONOMIA",
+                "period": "000202DU",
+                "je": false
+            },
+            {
+                "id": "66777",
+                "name": "QUÍMICA ANALÍTICA",
+                "grade": 2008,
+                "course": "AGRONOMIA",
+                "period": "000202DU",
+                "je": false
+            },
+            {
+                "id": "66777",
+                "name": "QUÍMICA ANALÍTICA",
+                "grade": 2008,
+                "course": "AGRONOMIA",
+                "period": "000202DU",
+                "je": false
+            },
+            {
+                "id": "82576",
+                "name": "QUÍMICA ANALÍTICA",
+                "grade": 202301,
+                "course": "ZOOTECNIA",
+                "period": "005602DU",
+                "je": false
+            },
+            {
+                "id": "82576",
+                "name": "QUÍMICA ANALÍTICA",
+                "grade": 202301,
+                "course": "ZOOTECNIA",
+                "period": "005602DU",
+                "je": false
+            },
+            {
+                "id": "82576",
+                "name": "QUÍMICA ANALÍTICA",
+                "grade": 202301,
+                "course": "ZOOTECNIA",
+                "period": "005602DU",
+                "je": false
+            },
+            {
+                "id": "82931",
+                "name": "QUÍMICA GERAL",
+                "grade": 202302,
+                "course": "ENGENHARIA FLORESTAL",
+                "period": "049001DU",
+                "je": false
+            },
+            {
+                "id": "66769",
+                "name": "QUÍMICA GERAL",
+                "grade": 2008,
+                "course": "AGRONOMIA",
+                "period": "000201DU",
+                "je": true
+            },
+            {
+                "id": "66769",
+                "name": "QUÍMICA GERAL",
+                "grade": 2008,
+                "course": "AGRONOMIA",
+                "period": "000201DU",
+                "je": true
+            },
+            {
+                "id": "66769",
+                "name": "QUÍMICA GERAL",
+                "grade": 2008,
+                "course": "AGRONOMIA",
+                "period": "000201DU",
+                "je": true
+            },
+            {
+                "id": "82567",
+                "name": "QUÍMICA GERAL",
+                "grade": 202301,
+                "course": "ZOOTECNIA",
+                "period": "005601DU",
+                "je": true
+            },
+            {
+                "id": "82567",
+                "name": "QUÍMICA GERAL",
+                "grade": 202301,
+                "course": "ZOOTECNIA",
+                "period": "005601DU",
+                "je": true
+            },
+            {
+                "id": "82568",
+                "name": "QUÍMICA ORGÂNICA",
+                "grade": 202301,
+                "course": "ZOOTECNIA",
+                "period": "005601DU",
+                "je": true
+            },
+            {
+                "id": "82932",
+                "name": "QUÍMICA ORGÂNICA",
+                "grade": 202302,
+                "course": "ENGENHARIA FLORESTAL",
+                "period": "049001DU",
+                "je": true
+            }
+        ]
+    },
+    {
+        "name": "Narciso",
+        "login": "00127",
+        "disciplines": [
+            {
+                "id": "77654",
+                "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001803NU",
+                "je": false
+            },
+            {
+                "id": "77660",
+                "name": "CÁLCULO DIFERENCIAL E INTEGRAL III",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001804DU",
+                "je": false
+            },
+            {
+                "id": "77667",
+                "name": "ESPAÇOS MÉTRICOS",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001805NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Paulo",
+        "login": "002389",
+        "disciplines": [
+            {
+                "id": "69925",
+                "name": "FUNDAMENTOS DE MECÂNICA",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045603DU",
+                "je": false
+            },
+            {
+                "id": "77676",
+                "name": "FÍSICA III",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001806NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Maria",
+        "login": "00823",
+        "disciplines": [
+            {
+                "id": "77673",
+                "name": "FUNDAMENTOS E ORIENTAÇÃO DE ESTÁGIO SUPERVISIONADO EM MATEMÁTICA I",
+                "grade": 202001,
+                "course": "MATEMÁTICA - CAMPUS SÃO FRANCISCO",
+                "period": "011105NU",
+                "je": false
+            },
+            {
+                "id": "77688",
+                "name": "FUNDAMENTOS E ORIENTAÇÃO DE ESTÁGIO SUPERVISIONADO EM MATEMÁTICA IV",
+                "grade": 202001,
+                "course": "MATEMÁTICA - CAMPUS SÃO FRANCISCO",
+                "period": "011108NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Rieuse",
+        "login": "004069",
+        "disciplines": [
+            {
+                "id": "77644",
+                "name": "BASES DO ENSINO E DA APRENDIZAGEM DA MATEMÁTICA I",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001801NU",
+                "je": false
+            },
+            {
+                "id": "77742",
+                "name": "OPTATIVA - MODELAGEM MATEMÁTICA NO ENSINO BÁSICO",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001808NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Rieuse",
+        "login": "004436",
+        "disciplines": [
+            {
+                "id": "77679",
+                "name": "FUNDAMENTOS E ORIENTAÇÃO DE ESTÁGIO SUPERVISIONADO EM MATEMÁTICA II",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001806NU",
+                "je": false
+            },
+            {
+                "id": "77688",
+                "name": "FUNDAMENTOS E ORIENTAÇÃO DE ESTÁGIO SUPERVISIONADO EM MATEMÁTICA IV",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001808NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Rodrigo Arlindo",
+        "login": "004716",
+        "disciplines": [
+            {
+                "id": "69919",
+                "name": "DESENHO TÉCNICO",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045602DU",
+                "je": false
+            },
+            {
+                "id": "69919",
+                "name": "DESENHO TÉCNICO",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045602DU",
+                "je": false
+            },
+            {
+                "id": "69919",
+                "name": "DESENHO TÉCNICO",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045602DU",
+                "je": false
+            },
+            {
+                "id": "69928",
+                "name": "DESENHO TÉCNICO AUXILIADO POR COMPUTADORES",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045603DU",
+                "je": false
+            },
+            {
+                "id": "69928",
+                "name": "DESENHO TÉCNICO AUXILIADO POR COMPUTADORES",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045603DU",
+                "je": false
+            },
+            {
+                "id": "69958",
+                "name": "LEGISLAÇÃO, AVALIAÇÕES E PERÍCIAS",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045608DU",
+                "je": true
+            },
+            {
+                "id": "69973",
+                "name": "ÉTICA E EXERCÍCIO PROFISSIONAL",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045610DU",
+                "je": true
+            }
+        ]
+    },
+    {
+        "name": "Ronaldo",
+        "login": "00524",
+        "disciplines": [
+            {
+                "id": "69597",
+                "name": "CÁLCULO DIFERENCIAL E INTEGRAL",
+                "grade": 201101,
+                "course": "SISTEMAS DE INFORMAÇÃO",
+                "period": "000502DU",
+                "je": false
+            },
+            {
+                "id": "77648",
+                "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001802DU",
+                "je": false
+            },
+            {
+                "id": "83723",
+                "name": "MATEMÁTICA",
+                "grade": 202401,
+                "course": "CIÊNCIAS ECONÔMICAS",
+                "period": "000701MU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Rosivaldo",
+        "login": "00739",
+        "disciplines": [
+            {
+                "id": "69907",
+                "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045601DU",
+                "je": false
+            },
+            {
+                "id": "77657",
+                "name": "INFORMÁTICA NA MATEMÁTICA BÁSICA E VICE-VERSA I",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001803NU",
+                "je": false
+            },
+            {
+                "id": "77663",
+                "name": "INFORMÁTICA NA MATEMÁTICA BÁSICA E VICE-VERSA II",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001804DU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Sebastião",
+        "login": "00436",
+        "disciplines": [
+            {
+                "id": "77642",
+                "name": "GEOMETRIA ANALÍTICA",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001801NU",
+                "je": false
+            },
+            {
+                "id": "77649",
+                "name": "GEOMETRIA EUCLIDIANA ESPACIAL",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001802DU",
+                "je": false
+            },
+            {
+                "id": "77664",
+                "name": "MATEMÁTICA FINANCEIRA",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001804DU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Tatiana",
+        "login": "002429",
+        "disciplines": [
+            {
+                "id": "69916",
+                "name": "FÍSICA I",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045602DU",
+                "je": false
+            },
+            {
+                "id": "69916",
+                "name": "FÍSICA I",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045602DU",
+                "je": false
+            },
+            {
+                "id": "69916",
+                "name": "FÍSICA I",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045602DU",
+                "je": false
+            },
+            {
+                "id": "69929",
+                "name": "FÍSICA III",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045604DU",
+                "je": false
+            },
+            {
+                "id": "69929",
+                "name": "FÍSICA III",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045604DU",
+                "je": false
+            },
+            {
+                "id": "69930",
+                "name": "FENÔMENOS DE TRANSPORTE",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045604DU",
+                "je": true
+            },
+            {
+                "id": "80891",
+                "name": "FUNDAMENTOS DE MECÂNICA DOS SÓLIDOS E FLUÍDOS",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065303NU",
+                "je": true
+            }
+        ]
+    },
+    {
+        "name": "Vera",
+        "login": "00900",
+        "disciplines": [
+            {
+                "id": "69908",
+                "name": "QUÍMICA GERAL TECNOLÓGICA I",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045601DU",
+                "je": false
+            },
+            {
+                "id": "69908",
+                "name": "QUÍMICA GERAL TECNOLÓGICA I",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045601DU",
+                "je": false
+            },
+            {
+                "id": "69908",
+                "name": "QUÍMICA GERAL TECNOLÓGICA I",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045601DU",
+                "je": false
+            },
+            {
+                "id": "75199",
+                "name": "FUNDAMENTOS DE QUÍMICA",
+                "grade": 201701,
+                "course": "CIÊNCIAS BIOLÓGICAS - BACHARELADO",
+                "period": "000301VU",
+                "je": false
+            },
+            {
+                "id": "75199",
+                "name": "FUNDAMENTOS DE QUÍMICA",
+                "grade": 201701,
+                "course": "CIÊNCIAS BIOLÓGICAS - BACHARELADO",
+                "period": "000301VU",
+                "je": false
+            },
+            {
+                "id": "75199",
+                "name": "FUNDAMENTOS DE QUÍMICA",
+                "grade": 201701,
+                "course": "CIÊNCIAS BIOLÓGICAS - BACHARELADO",
+                "period": "000301VU",
+                "je": false
+            },
+            {
+                "id": "79256",
+                "name": "QUÍMICA FUNDAMENTAL",
+                "grade": 202102,
+                "course": "CIÊNCIAS BIOLÓGICAS - LICENCIATURA PLENA",
+                "period": "000401NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Vitor Gigante",
+        "login": "005282",
+        "disciplines": [
+            {
+                "id": "77656",
+                "name": "FÍSICA I",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001803NU",
+                "je": false
+            },
+            {
+                "id": "80773",
+                "name": "FÍSICA CONCEITUAL I",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065301NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Vitor Monteiro",
+        "login": "004046",
+        "disciplines": [
+            {
+                "id": "69923",
+                "name": "FÍSICA II",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045603DU",
+                "je": false
+            },
+            {
+                "id": "69923",
+                "name": "FÍSICA II",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045603DU",
+                "je": false
+            },
+            {
+                "id": "69923",
+                "name": "FÍSICA II",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045603DU",
+                "je": false
+            },
+            {
+                "id": "80908",
+                "name": "ESTÁGIO SUPERVISIONADO EM FÍSICA I",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065305NU",
+                "je": false
+            },
+            {
+                "id": "80881",
+                "name": "LABORATÓRIO DE CIÊNCIAS",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065301NU",
+                "je": true
+            },
+            {
+                "id": "80905",
+                "name": "LABORATÓRIO DE FÍSICA GERAL II",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065305NU",
+                "je": true
+            },
+            {
+                "id": "77668",
+                "name": "FÍSICA II",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001805NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Warley",
+        "login": "004382",
+        "disciplines": [
+            {
+                "id": "69915",
+                "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045602DU",
+                "je": false
+            },
+            {
+                "id": "77653",
+                "name": "ÁLGEBRA LINEAR II",
+                "grade": 202001,
+                "course": "MATEMÁTICA",
+                "period": "001803NU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Warley Cunha",
+        "login": "000517",
+        "disciplines": [
+            {
+                "id": "69738",
+                "name": "CÁLCULO NUMÉRICO",
+                "grade": 201101,
+                "course": "SISTEMAS DE INFORMAÇÃO",
+                "period": "000503DU",
+                "je": false
+            },
+            {
+                "id": "69917",
+                "name": "CÁLCULO NUMÉRICO",
+                "grade": 201201,
+                "course": "ENGENHARIA CIVIL",
+                "period": "045602DU",
+                "je": false
+            }
+        ]
+    },
+    {
+        "name": "Zilene",
+        "login": "004011",
+        "disciplines": [
+            {
+                "id": "79310",
+                "name": "ELETIVA II - QUÍMICA ORGÂNICA",
+                "grade": 202102,
+                "course": "CIÊNCIAS BIOLÓGICAS - LICENCIATURA PLENA",
+                "period": "000403NU",
+                "je": true
+            },
+            {
+                "id": "80877",
+                "name": "QUÍMICA BÁSICA",
+                "grade": 202301,
+                "course": "FÍSICA",
+                "period": "065301NU",
+                "je": true
+            }
+        ]
+    }
+]
